@@ -1,4 +1,4 @@
-# Learngit 学习笔记
+## Learngit 学习笔记
 ####1.Linux上安装Git
     sudo apt-get install git
 ####2.配置git
@@ -28,7 +28,7 @@
 ####9.让Git显示颜色
     git config --global color.ui true
 ####10.忽略特殊文件
-    在Git工作区的根目录下创建一个特殊的.gitignore文件，然后把要忽略的文件名填进去，Git就会自动忽略这些文件。
+    在Git工作区的根目录下创建一个特殊的.gitignore文件，然后把要忽略的文件名填进去.
     eg.  *.py[cod]
          *.so
          *.egg
@@ -42,6 +42,6 @@
 ####14.合并分支
     git merge <name>
 
-###备注：这里列出了一些我认为经常用到的命令，记录自己的学习，也方便查看！！
-###参考学习：[http://www.liaoxuefeng.com/](http://www.liaoxuefeng.com/)
-###我的GitHub主页：[https://github.com/pengshp/](https://github.com/pengshp/)
+#####备注：这里列出了一些我认为经常用到的命令，记录自己的学习，也方便查看！！
+#####参考学习：[http://www.liaoxuefeng.com/](http://www.liaoxuefeng.com/)
+#####我的GitHub主页：[https://github.com/pengshp/](https://github.com/pengshp/)
