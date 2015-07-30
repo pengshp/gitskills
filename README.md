@@ -44,10 +44,10 @@
 ####15.列出Git设置
     git config --list
 #### 常用配置：
-> 避免PULLING提交合并 'git config --global branch.autosetuprebase always'
-> 颜色高亮： 'git config --global color.ui true'
->            'git config --global color.status auto'
->            'git config --global color.branch auto'
+> 避免PULLING提交合并 git config --global branch.autosetuprebase always
+  颜色高亮： git config --global color.ui true
+             git config --global color.status auto
+             git config --global color.branch auto
 
 #####备注：这里列出了一些我认为经常用到的命令，记录自己的学习，也方便查看！！
 #####参考学习：[http://www.liaoxuefeng.com/](http://www.liaoxuefeng.com/)
