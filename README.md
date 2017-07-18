@@ -47,10 +47,13 @@
 * 避免PULLING提交合并   
     git config --global branch.autosetuprebase always
 * 颜色高亮:
- * git config --global color.ui true
- * git config --global color.status auto
- * git config --global color.branch auto
+
+    git config --global color.ui true
+    git config --global color.status auto
+    git config --global color.branch auto
+
  * 显示中文
+ 
     git config --global core.quotepath false # 设置显示中文文件名
 
 ##### Visual Studio2017上使用GitHub
